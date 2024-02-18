@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\adm\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.14\\cores\\esp32"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\adm\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\2.0.14\\variants\\franzininho_wifi_esp32s2"
+  },
+  {
+    "Sourcefile": "C:\\Users\\adm\\OneDrive - sga.pucminas.br\\Documentos\\GitHub\\Embarcados\\Programe o ESP32 com Arduino\\teste_vscode\\build\\sketch\\teste_vscode.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

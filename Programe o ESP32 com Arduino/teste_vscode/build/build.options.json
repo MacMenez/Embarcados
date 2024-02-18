@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "..\\..\\..,..\\..\\..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "-Os",
+  "customBuildProperties": "",
+  "fqbn": "esp32:esp32:franzininho_wifi_esp32s2:PSRAM=disabled,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none",
+  "hardwareFolders": "C:\\Users\\adm\\AppData\\Local\\Arduino15\\packages",
+  "otherLibrariesFolders": "C:\\Users\\adm\\OneDrive - sga.pucminas.br\\Documentos\\Arduino\\libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "C:\\Users\\adm\\OneDrive - sga.pucminas.br\\Documentos\\GitHub\\Embarcados\\Programe o ESP32 com Arduino\\teste_vscode"
+}

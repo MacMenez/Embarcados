@@ -1,0 +1,9 @@
+#line 1 "C:\\Users\\adm\\OneDrive - sga.pucminas.br\\Documentos\\GitHub\\Embarcados\\Programe o ESP32 com Arduino\\teste_vscode\\.vscode\\arduino.json"
+{
+    "sketch": "teste_vscode.ino",
+    "output": "build",
+    "port": "COM4",
+    "configuration": "PSRAM=disabled,FlashSize=4M,PartitionScheme=default,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:franzininho_wifi_esp32s2",
+    "programmer": "esptool"
+}
