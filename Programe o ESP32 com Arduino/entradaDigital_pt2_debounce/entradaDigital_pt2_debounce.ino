@@ -19,7 +19,9 @@ Autor: Davi C. Menez
 
 const int debounceTime = 50; //milissegundos
 const int buttonPin = BOTAO_1; //Pino do botão 1
-const int ledPin = LED_VERMELHO; //Pino LED Vermelho
+// const int ledPin = LED_VERMELHO; //Pino LED Vermelho
+// const int ledPin = LED_VERDE; //Pino LED Vermelho
+const int ledPin = LED_AZUL; //Pino LED Vermelho
 
 unsigned long lastDebounceTime = 0;
 int buttonState = HIGH; //Começa em HIGH por causa do PULLUP, se não for PULLUP inverte
